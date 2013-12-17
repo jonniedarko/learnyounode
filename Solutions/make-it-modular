@@ -1,0 +1,8 @@
+(function (dir, type){
+	var filter = require("./filter-ls");
+	filter(dir, type, function(err, data){
+		data.forEach(function (file){
+			console.log(file);
+		});
+	});
+})(process.argv[2], process.argv[3]);
