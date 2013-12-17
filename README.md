@@ -13,6 +13,6 @@ Solutions to the [learnyounode](https://github.com/rvagg/learnyounode) tutorials
 - [x] HTTP COLLECT
 - [x] JUGGLING ASYNC
 - [x] TIME SERVER
-- [ ] HTTP FILE SERVER
+- [x] HTTP FILE SERVER
 - [ ] HTTP UPPERCASERER
 - [ ] HTTP JSON API SERVER
