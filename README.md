@@ -14,5 +14,5 @@ Solutions to the [learnyounode](https://github.com/rvagg/learnyounode) tutorials
 - [x] JUGGLING ASYNC
 - [x] TIME SERVER
 - [x] HTTP FILE SERVER
-- [ ] HTTP UPPERCASERER
+- [x] HTTP UPPERCASERER
 - [ ] HTTP JSON API SERVER
