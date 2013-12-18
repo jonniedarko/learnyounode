@@ -1,18 +1,12 @@
-learnyounode
+nodeschool.io
 ============
 
-Solutions to the [learnyounode](https://github.com/rvagg/learnyounode) tutorials
+My Solutions to the Lessons on [nodeschool.io](http://nodeschool.io/) 
 
-- [x] HELLO WORLD
-- [x] BABY STEPS
-- [x] MY FIRST I/O!
-- [x] MY FIRST ASYNC I/O!
-- [x] FILTERED LS
-- [x] MAKE IT MODULAR
-- [x] HTTP CLIENT
-- [x] HTTP COLLECT
-- [x] JUGGLING ASYNC
-- [x] TIME SERVER
-- [x] HTTP FILE SERVER
-- [x] HTTP UPPERCASERER
-- [x] HTTP JSON API SERVER
+- [x] [Learnyounode](http://nodeschool.io/#learn-you-node)
+- [ ] [Stream-Adventure](http://nodeschool.io/#stream-adventure)
+- [ ] [Levelmeup](http://nodeschool.io/#levelmeup)
+- [ ] [Functionaljs](http://nodeschool.io/#functionaljs)
+- [ ] [Bytewiser](http://nodeschool.io/#bytewiser)
+- [ ] [Expressworks](http://nodeschool.io/#expressworks)
+
