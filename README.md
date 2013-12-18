@@ -15,4 +15,4 @@ Solutions to the [learnyounode](https://github.com/rvagg/learnyounode) tutorials
 - [x] TIME SERVER
 - [x] HTTP FILE SERVER
 - [x] HTTP UPPERCASERER
-- [ ] HTTP JSON API SERVER
+- [x] HTTP JSON API SERVER
