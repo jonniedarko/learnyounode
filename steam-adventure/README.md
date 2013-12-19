@@ -9,8 +9,8 @@ Solutions to the [steam-adventure](https://github.com/substack/stream-adventure)
 - [x] TRANSFORM
 - [x] LINES
 - [x] CONCAT
-- [ ] HTTP SERVER
-- [ ] HTTP CLIENT
+- [x] HTTP SERVER
+- [x] HTTP CLIENT
 - [ ] WEBSOCKETS
 - [ ] HTML STREAM
 - [ ] DUPLEXER
