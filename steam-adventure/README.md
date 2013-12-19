@@ -8,7 +8,7 @@ Solutions to the [steam-adventure](https://github.com/substack/stream-adventure)
 - [x] INPUT OUTPUT
 - [x] TRANSFORM
 - [x] LINES
-- [ ] CONCAT
+- [x] CONCAT
 - [ ] HTTP SERVER
 - [ ] HTTP CLIENT
 - [ ] WEBSOCKETS
