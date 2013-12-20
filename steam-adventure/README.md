@@ -11,7 +11,7 @@ Solutions to the [steam-adventure](https://github.com/substack/stream-adventure)
 - [x] CONCAT
 - [x] HTTP SERVER
 - [x] HTTP CLIENT
-- [ ] WEBSOCKETS
+- [x] WEBSOCKETS
 - [ ] HTML STREAM
 - [ ] DUPLEXER
 - [ ] DUPLEXER REDUX
