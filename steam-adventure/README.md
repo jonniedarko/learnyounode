@@ -18,3 +18,8 @@ Solutions to the [steam-adventure](https://github.com/substack/stream-adventure)
 - [ ] COMBINER
 - [ ] CRYPT
 - [ ] SECRETZ
+
+
+###Resources###
+
+[stream-handbook](https://github.com/substack/stream-handbook)
