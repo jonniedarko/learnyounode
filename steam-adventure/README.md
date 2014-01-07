@@ -12,7 +12,7 @@ Solutions to the [steam-adventure](https://github.com/substack/stream-adventure)
 - [x] HTTP SERVER
 - [x] HTTP CLIENT
 - [x] WEBSOCKETS
-- [ ] HTML STREAM
+- [x] HTML STREAM
 - [ ] DUPLEXER
 - [ ] DUPLEXER REDUX
 - [ ] COMBINER
